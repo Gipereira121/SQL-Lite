@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\AppVeterinario\\AppVeterinario\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3B79A0D-50C0-4CA6-A3F7-BE7D1D4D2AC0}|AppVeterinario\\AppVeterinario.csproj|c:\\appveterinario\\appveterinario\\appveterinario\\models\\especie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3B79A0D-50C0-4CA6-A3F7-BE7D1D4D2AC0}|AppVeterinario\\AppVeterinario.csproj|solutionrelative:appveterinario\\models\\especie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3B79A0D-50C0-4CA6-A3F7-BE7D1D4D2AC0}|AppVeterinario\\AppVeterinario.csproj|c:\\appveterinario\\appveterinario\\appveterinario\\helpers\\sqlitedatabasehelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3B79A0D-50C0-4CA6-A3F7-BE7D1D4D2AC0}|AppVeterinario\\AppVeterinario.csproj|solutionrelative:appveterinario\\helpers\\sqlitedatabasehelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3B79A0D-50C0-4CA6-A3F7-BE7D1D4D2AC0}|AppVeterinario\\AppVeterinario.csproj|c:\\appveterinario\\appveterinario\\appveterinario\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3B79A0D-50C0-4CA6-A3F7-BE7D1D4D2AC0}|AppVeterinario\\AppVeterinario.csproj|solutionrelative:appveterinario\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3B79A0D-50C0-4CA6-A3F7-BE7D1D4D2AC0}|AppVeterinario\\AppVeterinario.csproj|c:\\appveterinario\\appveterinario\\appveterinario\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E3B79A0D-50C0-4CA6-A3F7-BE7D1D4D2AC0}|AppVeterinario\\AppVeterinario.csproj|solutionrelative:appveterinario\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3B79A0D-50C0-4CA6-A3F7-BE7D1D4D2AC0}|AppVeterinario\\AppVeterinario.csproj|c:\\appveterinario\\appveterinario\\appveterinario\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3B79A0D-50C0-4CA6-A3F7-BE7D1D4D2AC0}|AppVeterinario\\AppVeterinario.csproj|solutionrelative:appveterinario\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\AppVeterinario\\AppVeterinario\\AppVeterinario\\MainPage.xaml",
+              "RelativeDocumentMoniker": "AppVeterinario\\MainPage.xaml",
+              "ToolTip": "C:\\AppVeterinario\\AppVeterinario\\AppVeterinario\\MainPage.xaml",
+              "RelativeToolTip": "AppVeterinario\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-18T00:32:32.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\AppVeterinario\\AppVeterinario\\AppVeterinario\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "AppVeterinario\\MainPage.xaml.cs",
+              "ToolTip": "C:\\AppVeterinario\\AppVeterinario\\AppVeterinario\\MainPage.xaml.cs",
+              "RelativeToolTip": "AppVeterinario\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T00:32:34.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\AppVeterinario\\AppVeterinario\\AppVeterinario\\App.xaml.cs",
+              "RelativeDocumentMoniker": "AppVeterinario\\App.xaml.cs",
+              "ToolTip": "C:\\AppVeterinario\\AppVeterinario\\AppVeterinario\\App.xaml.cs",
+              "RelativeToolTip": "AppVeterinario\\App.xaml.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T00:33:05.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SQLiteDataBaseHelpers.cs",
+              "DocumentMoniker": "C:\\AppVeterinario\\AppVeterinario\\AppVeterinario\\Helpers\\SQLiteDataBaseHelpers.cs",
+              "RelativeDocumentMoniker": "AppVeterinario\\Helpers\\SQLiteDataBaseHelpers.cs",
+              "ToolTip": "C:\\AppVeterinario\\AppVeterinario\\AppVeterinario\\Helpers\\SQLiteDataBaseHelpers.cs",
+              "RelativeToolTip": "AppVeterinario\\Helpers\\SQLiteDataBaseHelpers.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAiwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T23:02:23.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Especie.cs",
+              "DocumentMoniker": "C:\\AppVeterinario\\AppVeterinario\\AppVeterinario\\Models\\Especie.cs",
+              "RelativeDocumentMoniker": "AppVeterinario\\Models\\Especie.cs",
+              "ToolTip": "C:\\AppVeterinario\\AppVeterinario\\AppVeterinario\\Models\\Especie.cs",
+              "RelativeToolTip": "AppVeterinario\\Models\\Especie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T22:53:38.545Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

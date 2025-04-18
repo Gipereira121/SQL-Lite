@@ -1,0 +1,1 @@
+C:\AppVeterinario\AppVeterinario\AppVeterinario\AppVeterinario.csproj;x64

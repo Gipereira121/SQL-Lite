@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppVeterinario.MainPage">
+
+    <ScrollView>
+        <VerticalStackLayout Padding="30,0" Spacing="15">
+
+            <Label x:Name="lblCodigo" Text="Codigo:"/>
+            <Entry x:Name="etrCodigo" />
+
+            <Label x:Name="lblNome" Text="Nome:"/>
+            <Entry x:Name="etrNome" />
+
+            <Button x:Name="btnInserir" Text="Inserir" Clicked="btnInserir_Clicked"/>
+
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>
